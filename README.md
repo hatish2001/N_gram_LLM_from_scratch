@@ -1,7 +1,7 @@
 
 # Neural Network for Character-Level Name Generation
 
-This repository contains a neural network built using PyTorch that performs character-level name generation. The model is trained on a dataset of names and predicts the next character given a sequence of previous characters.
+This repository contains a neural network built using PyTorch from scratch that performs character-level name generation. The model is trained on a dataset of names and predicts the next character given a sequence of previous characters.
 
 ## Project Overview
 
