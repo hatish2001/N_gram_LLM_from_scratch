@@ -1,6 +1,3 @@
-Here's a sample README file that you can use for your GitHub repository. It provides a clear explanation of the project, setup instructions, and how to use the neural network.
-
----
 
 # Neural Network for Character-Level Name Generation
 
